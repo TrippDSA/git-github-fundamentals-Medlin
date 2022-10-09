@@ -1,6 +1,7 @@
 # git-github-fundamentals-Medlin
 
 HERE IS MY CHANGE FOR THE CLASS TUTORIAL...
+ALONG WITH THIS CHANGE ... 
 
  👋 The Basics of GitHub
 
