@@ -1,7 +1,6 @@
 # git-github-fundamentals-Medlin
 
-HERE IS MY CHANGE FOR THE CLASS TUTORIAL...
-ALONG WITH THIS CHANGE ... 
+Here is the real changes for a pull request to merge
 
  👋 The Basics of GitHub
 
