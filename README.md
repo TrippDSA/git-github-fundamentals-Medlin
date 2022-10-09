@@ -1,4 +1,7 @@
 # git-github-fundamentals-Medlin
+
+HERE IS MY CHANGE FOR THE CLASS TUTORIAL...
+
  👋 The Basics of GitHub
 
 🤓 Course overview and learning outcomes
